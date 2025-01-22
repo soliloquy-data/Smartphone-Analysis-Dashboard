@@ -1,6 +1,7 @@
 ## Smartphone Data Analysis & Dashboard
 
-Welcome to the Smartphone Data Analysis & Dashboard! This app provides a comprehensive and interactive platform for exploring a detailed dataset of smartphones sourced from Smartprix, a leading website for smartphone comparisons. The dataset spans from 2014 to November 2024, featuring a wide variety of smartphones across different brands, models, and key features.
+Welcome to the Smartphone Data Analysis & Dashboard! This dashboard provides a comprehensive and interactive platform for exploring a detailed dataset of smartphones sourced from Smartprix, a leading website for smartphone comparisons. 
+The dataset used here spans from 2014 to November 2024, featuring a wide variety of smartphones across different brands, models, and key features.
 
 This dashboard is designed to provide deep insights into the smartphone market, showcasing trends, brand performance, and key features, while offering a user-centric view tailored to potential buyers.
 
