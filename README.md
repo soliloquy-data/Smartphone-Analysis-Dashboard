@@ -7,7 +7,7 @@ This dashboard is designed to provide deep insights into the smartphone market, 
 ## Access the Streamlit App
 You can access the live version of the app by clicking the link below:
 
-[Go to the Streamlit App]([https://your-app-name.streamlit.app](https://smartphone-analysis-dashboard-6666.streamlit.app/))
+[Go to the Streamlit App](https://smartphone-analysis-dashboard-6666.streamlit.app/)
 
 
 # Data Source
