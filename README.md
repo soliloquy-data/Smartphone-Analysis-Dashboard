@@ -4,10 +4,10 @@ Welcome to the Smartphone Data Analysis & Dashboard! This app provides a compreh
 
 This dashboard is designed to provide deep insights into the smartphone market, showcasing trends, brand performance, and key features, while offering a user-centric view tailored to potential buyers.
 
-## Access the Streamlit App
+## Access the Streamlit Dashboard
 You can access the live version of the app by clicking the link below:
 
-[Go to the Streamlit App](https://smartphone-analysis-dashboard-6666.streamlit.app/)
+[Go to the Streamlit Dashboard](https://smartphone-analysis-dashboard-6666.streamlit.app/)
 
 
 # Data Source
