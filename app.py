@@ -60,7 +60,7 @@ if selection == "Intro 🏠":
 
 elif selection == "Overall Analysis 📊":
     # Load the dataset (adjust this to the correct file path)
-    file_path = r"C:\Users\user\Desktop\Python\Python practise\Campus X\Smarthphone Cleaning and Analysis\Streamlit\data_refined.csv"  # Adjust this to your file path
+    file_path = r"https://raw.githubusercontent.com/soliloquy-data/Smartphone-Analysis-Dashboard/refs/heads/main/data_refined.csv"  # Adjust this to your file path
     df = pd.read_csv(file_path)
 
     st.title("Overall Analysis")
@@ -576,7 +576,7 @@ elif selection == "Overall Analysis 📊":
    # Show User-centric Analysis
 elif selection == "User-centric Analysis 👥":
     st.title("User-centric Analysis")
-    file_path_1=r"C:\Users\user\Desktop\Python\Python practise\Campus X\Smarthphone Cleaning and Analysis\Streamlit\data_refined_user.csv"
+    file_path_1=r"https://raw.githubusercontent.com/soliloquy-data/Smartphone-Analysis-Dashboard/refs/heads/main/data_refined_user.csv"
     df1 = pd.read_csv(file_path_1)
     st.markdown("""
 
